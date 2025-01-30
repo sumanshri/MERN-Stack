@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../assests1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../todolist"
+		},
+		{
+			"path": "../.git"
+		}
+	]
+}
